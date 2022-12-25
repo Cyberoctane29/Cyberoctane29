@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saswat Seth!!</h1>
-<h3 align="center">I am completely enamored of designing and I like coding, currently web development fascinates me😸.</h3>
+<h3 align="center">I am completely intrigued by designing and I like coding, currently web development fascinates me😸.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberoctane29&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoctane29" /> </p>
 
-- 🌱 I’m currently learning **Web development and specially Javascript.**
+- 🌱 I’m currently learning **Web development and specially javascript.**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap and Design Thinking.**
 
@@ -17,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cyberoctane29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberoctane29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saswat-seth-0a782223b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saswat-seth-0a782223b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_sasquatch._/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_sasquatch._/?next=%2f" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saswat seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saswat seth" height="30" width="40" /></a>
+<a href="https://instagram.com/_sasquatch._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sasquatch._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
