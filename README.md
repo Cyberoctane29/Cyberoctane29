@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/cyberoctane29" target="blank"><img align="center" src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="cyberoctane29" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saswat-seth-0a782223b/" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="saswat seth" height="30" width="40" /></a>
-<a href="https://instagram.com/_sasquatch._" target="blank"><img align="center" src="images/instagram.svg" alt="_sasquatch._" height="30" width="40" /></a>
+<a href="https://instagram.com/_sasquatch._" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="_sasquatch._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
