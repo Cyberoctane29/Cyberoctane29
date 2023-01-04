@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberoctane29&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoctane29" /> </p>
 
-- 🌱 I’m currently learning **Web development and especially javascript.**
+- 🌱 I’m currently learning **Web development and especially Javascript.**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap and Design Thinking.**
 
