@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberoctane29&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoctane29" /> </p>
 
-- 🌱 I’m currently learning **Web development and especially Javascript.**
+- 🌱 I’m currently learning **Web development and especially DSA(C++) and Javascript.**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap and Design Thinking.**
+- 💬 Ask me about **C++, DSA, HTML, CSS, Bootstrap, UI/UX and Design Thinking.**
 
 - 📫 How to reach me **saswatseth292002@gmail.com**
 
