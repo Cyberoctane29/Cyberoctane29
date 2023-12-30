@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberoctane29&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoctane29" /> </p>
 
-- 🌱 I’m currently learning **Web development and especially DSA(C++) and Javascript.**
+- 🌱 **Elegant Solutions, Continuous Learner:** adept at tackling complex problems and passionate about continuous improvement.
 
-- 💬 Ask me about **C++, DSA, HTML, CSS, Bootstrap, UI/UX and Design Thinking.**
+- 💬 **Tech Collaborator & Innovation Advocate:** Passionate about collaborative tech projects and dedicated to fostering innovation through teamwork and creativity.
 
 - 📫 How to reach me **saswatseth292002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16f2B39Cqtg7sQNgN79VeoL0P_VmdQNBJ/view?usp=share_link](https://drive.google.com/file/d/16f2B39Cqtg7sQNgN79VeoL0P_VmdQNBJ/view?usp=share_link)
 
-- ⚡ Fun fact **I am good at singing and art. I am an aesthete😺.**
+- ⚡ and yes, **I am good at singing and art. I am an aesthete😺.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
