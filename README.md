@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16f2B39Cqtg7sQNgN79VeoL0P_VmdQNBJ/view?usp=share_link](https://drive.google.com/file/d/16f2B39Cqtg7sQNgN79VeoL0P_VmdQNBJ/view?usp=share_link)
 
-- ⚡ and yes, **I am good at singing and art. I am an aesthete😺.**
+- ⚡ And yes, **I am good at singing and art. I am an aesthete😺.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
