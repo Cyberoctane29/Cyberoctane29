@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saswat Seth!!</h1>
-<h3 align="center">Enamored of designing and I like coding, two major reasons of my fascination with web/software development😸.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberoctane29&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoctane29" /> </p>
 
