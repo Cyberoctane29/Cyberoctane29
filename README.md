@@ -3,7 +3,7 @@
 
 💬 Analytics Collaborator & Data-Driven Innovator: Dedicated to collaborative projects in data analytics, focusing on driving informed decisions and fostering innovation.
 
-📫 How to reach me saswatseth292002@gmail.com
+📫 How to reach me saswatseth.work@gmail.com
 
 📄 Know about my experiences https://drive.google.com/file/d/16f2B39Cqtg7sQNgN79VeoL0P_VmdQNBJ/view?usp=share_link
 
