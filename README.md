@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saswat Seth!!</h1>
+<h1 align="center">Hi👋, I'm Saswat Seth!!</h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=cyberoctane29&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoctane29" />
@@ -42,7 +42,61 @@
     <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/>
   </a>
 </p>
-
+<h3 align="left">Courses</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Topic</th>
+      <th>Start</th>
+      <th>End</th>
+      <th>Done</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Power BI Data Analysis</td>
+      <td>October 2022</td>
+      <td>December 2022</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Programming Basic with Python</td>
+      <td>January 2023</td>
+      <td>February 2023</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Math Concepts for Developers</td>
+      <td>March 2023</td>
+      <td>June 2023</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Programming Fundamentals with Python</td>
+      <td>May 2023</td>
+      <td>August 2023</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Programming Advanced with Python</td>
+      <td>September 2023</td>
+      <td>October 2023</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Programming with Python OOP</td>
+      <td>October 2023</td>
+      <td>December 2023</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Jupyter Notebook Mastery</td>
+      <td>December 2023</td>
+      <td>January 2024</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberoctane29&show_icons=true&locale=en&layout=compact" alt="cyberoctane29" />
 </p>
