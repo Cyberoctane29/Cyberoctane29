@@ -22,9 +22,6 @@
   <a href="https://www.linkedin.com/in/saswat-seth-0a782223b/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="saswat seth" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_.sasquatch._" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/128px-Instagram_logo_2016.svg.png" alt="_.sasquatch._" height="40" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
