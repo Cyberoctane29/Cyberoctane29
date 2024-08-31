@@ -37,6 +37,7 @@
     <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/>
   </a>
 </p>
+
 <h3 align="left">Courses</h3>
 <table>
   <thead>
@@ -48,46 +49,38 @@
   <tbody>
     <tr>
       <td>Google Data Analytics Professional Certificate</td>
-
       <td>✅</td>
     </tr>
     <tr>
-      <td>Google AI Essentialsn</td>
-   
+      <td>Google AI Essentials</td>
       <td>✅</td>
     </tr>
     <tr>
       <td>Math Concepts for Developers</td>
-   
       <td>✅</td>
     </tr>
     <tr>
       <td>Programming Fundamentals with Python</td>
-    
       <td>✅</td>
     </tr>
     <tr>
       <td>Programming Advanced with Python</td>
-
       <td>✅</td>
     </tr>
     <tr>
       <td>Programming with Python OOP</td>
-      
       <td>✅</td>
     </tr>
     <tr>
       <td>Jupyter Notebook Mastery</td>
-    
       <td>✅</td>
     </tr>
   </tbody>
 </table>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberoctane29&show_icons=true&locale=en&layout=compact" alt="cyberoctane29" />
 </p>
-
-
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberoctane29&" alt="cyberoctane29" />
