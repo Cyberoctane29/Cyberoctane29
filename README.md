@@ -12,8 +12,6 @@
 
 - 📄 Know about my experiences: <a href="https://saswatseth.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
-- ⚡ And yes, **I am good at singing and art. I am an aesthete😺.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/cyberoctane29" target="_blank" rel="noopener noreferrer">
