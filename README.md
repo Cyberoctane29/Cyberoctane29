@@ -49,45 +49,38 @@
   </thead>
   <tbody>
     <tr>
-      <td>Power BI Data Analysis</td>
-      <td>October 2022</td>
-      <td>December 2022</td>
+      <td>Google Data Analytics Professional Certificate</td>
+
       <td>✅</td>
     </tr>
     <tr>
-      <td>Programming Basic with Python</td>
-      <td>January 2023</td>
-      <td>February 2023</td>
+      <td>Google AI Essentialsn</td>
+   
       <td>✅</td>
     </tr>
     <tr>
       <td>Math Concepts for Developers</td>
-      <td>March 2023</td>
-      <td>June 2023</td>
+   
       <td>✅</td>
     </tr>
     <tr>
       <td>Programming Fundamentals with Python</td>
-      <td>May 2023</td>
-      <td>August 2023</td>
+    
       <td>✅</td>
     </tr>
     <tr>
       <td>Programming Advanced with Python</td>
-      <td>September 2023</td>
-      <td>October 2023</td>
+
       <td>✅</td>
     </tr>
     <tr>
       <td>Programming with Python OOP</td>
-      <td>October 2023</td>
-      <td>December 2023</td>
+      
       <td>✅</td>
     </tr>
     <tr>
       <td>Jupyter Notebook Mastery</td>
-      <td>December 2023</td>
-      <td>January 2024</td>
+    
       <td>✅</td>
     </tr>
   </tbody>
