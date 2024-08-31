@@ -42,8 +42,6 @@
   <thead>
     <tr>
       <th>Topic</th>
-      <th>Start</th>
-      <th>End</th>
       <th>Done</th>
     </tr>
   </thead>
