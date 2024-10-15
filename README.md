@@ -13,45 +13,7 @@
 - 📄 Know about my experiences: <a href="https://saswatseth.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 
-<h3 align="left">Courses</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Topic</th>
-      <th>Done</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Google Data Analytics Professional Certificate</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>Google AI Essentials</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>Math Concepts for Developers</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>Programming Fundamentals with Python</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>Programming Advanced with Python</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>Programming with Python OOP</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>Jupyter Notebook Mastery</td>
-      <td>✅</td>
-    </tr>
-  </tbody>
-</table>
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberoctane29&show_icons=true&locale=en&layout=compact" alt="cyberoctane29" />
