@@ -12,31 +12,6 @@
 
 - 📄 Know about my experiences: <a href="https://saswatseth.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/cyberoctane29" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="cyberoctane29" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/saswat-seth-0a782223b/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="saswat seth" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noopener noreferrer">
-    <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="sql" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/>
-  </a>
-</p>
 
 <h3 align="left">Courses</h3>
 <table>
