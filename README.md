@@ -12,12 +12,9 @@
 
 - 📄 Know about my experiences: <a href="https://saswatseth.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
-
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberoctane29&show_icons=true&locale=en&layout=compact" alt="Cyberoctane29" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberoctane29&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Cyberoctane29" />
 </p>
-
-
 
 
 
