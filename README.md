@@ -14,7 +14,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberoctane29&show_icons=true&locale=en&layout=compact" alt="cyberoctane29" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberoctane29&show_icons=true&locale=en&layout=compact" alt="Cyberoctane29" />
 </p>
 
 
