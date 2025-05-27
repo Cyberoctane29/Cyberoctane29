@@ -8,7 +8,7 @@
 
 * 💾 **SQL, Python & Data Visualization:** Skilled in data querying, cleaning, analysis, and visualization using SQL (MySQL), Python (pandas, NumPy, scikit-learn, XGBoost, and more), Tableau, and Matplotlib.
 
-* 📊 **Advanced Analytics, AI & ML Explorer:** Skilled in EDA, feature engineering, hypothesis testing, statistical modeling (probability, sampling, regression, classification, etc), machine learning (supervised, unsupervised, decision trees, random forests, XGBoost, clustering and more), and ethical data storytelling.
+* 📊 **Advanced Analytics, AI & ML Explorer:** Skilled in EDA, feature engineering, hypothesis testing, statistical modeling (probability, regression, classification, etc), machine learning (supervised, unsupervised, decision trees, random forests, XGBoost, clustering and more), and ethical data storytelling.
 
 * 📈 **Business-Focused Data Practitioner:** Proficient in Excel, BigQuery, Google AI Studio, and Prompt Engineering to streamline data processing and optimize advanced analytics workflows for business impact.
 
