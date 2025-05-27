@@ -12,7 +12,7 @@
 
 * 📈 **Business-Focused Data Practitioner:** Proficient in Excel, BigQuery, Google AI Studio, and Prompt Engineering to streamline data processing and optimize advanced analytics workflows for business impact.
 
-* 🤝 Collaborative & Strategic Thinker: Strong in presentation skills, leadership, stakeholder communication, project management, cross-functional collaboration, and business acumen — ensuring data solutions are actionable, strategic, and aligned with organizational goals.
+* 🤝 **Collaborative & Strategic Thinker:** Skilled in presentation, leadership, stakeholder communication, project management, and business acumen, ensuring data solutions drive strategic impact.
 
 * 📫 How to reach me: <a href="mailto:saswatseth.work@gmail.com">[saswatseth.work@gmail.com](mailto:saswatseth.work@gmail.com)</a>
 
