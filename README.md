@@ -16,5 +16,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberoctane29&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Cyberoctane29" />
 </p>
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/71f09e679332b2850c04d371db60863647f9be8b2bf207d9bb3d3aed57c9033f/68747470733a2f2f692e696d6775722e636f6d2f496154755964532e706e67" alt="default" data-canonical-src="https://i.imgur.com/IaTuYdS.png" style="max-width: 100%;" width=400>
+</p>
+
 
 
