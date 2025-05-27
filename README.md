@@ -4,15 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=cyberoctane29&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoctane29" />
 </p>
 
-🌱 Data Analytics & Machine Learning Enthusiast: Passionate about transforming data into actionable insights, developing end-to-end analytics and predictive model pipelines, including exploratory data analysis (EDA), feature engineering, and delivering impactful solutions.
+* 🌱 **Data Analytics & Machine Learning Enthusiast:** Passionate about transforming data into actionable insights, developing end-to-end analytics and predictive model pipelines, and delivering impactful solutions.
 
-💾 SQL, Python & Data Visualization: Skilled in data querying, cleaning, analysis, and visualization using SQL (MySQL), Python (pandas, NumPy, scikit-learn, XGBoost, and more), Tableau, and Matplotlib. Proficient in statistical modeling, including probability distributions, sampling theory, regression, and classification models.
+* 💾 **SQL, Python & Data Visualization:** Skilled in data querying, cleaning, analysis, and visualization using SQL (MySQL), Python (pandas, NumPy, scikit-learn, XGBoost, and more), Tableau, and Matplotlib.
 
-📊 Advanced Analytics, AI & ML Explorer: Experienced in developing supervised and unsupervised machine learning models such as decision trees, random forests, XGBoost, clustering, and more, with a focus on ethical data storytelling.
+* 📊 **Advanced Analytics, AI & ML Explorer:** Skilled in EDA, feature engineering, hypothesis testing, statistical modeling (probability, sampling, regression, classification), machine learning (supervised, unsupervised, decision trees, random forests, XGBoost, clustering), and ethical data storytelling.
 
-📈 Business-Focused Data Practitioner: Proficient in Excel, BigQuery, Google AI Studio, and Prompt Engineering to streamline data processing, perform hypothesis testing, optimize advanced analytics workflows, and translate data insights for business impact.
+* 📈 **Business-Focused Data Practitioner:** Proficient in Excel, BigQuery, Google AI Studio, and Prompt Engineering to streamline data processing and optimize advanced analytics workflows for business impact.
 
-🤝 Collaborative & Strategic Thinker: Strong in presentation skills, leadership, stakeholder communication, project management, cross-functional collaboration, and business acumen — ensuring data solutions are actionable, strategic, and aligned with organizational goals.
+* 🤝 Collaborative & Strategic Thinker: Strong in presentation skills, leadership, stakeholder communication, project management, cross-functional collaboration, and business acumen — ensuring data solutions are actionable, strategic, and aligned with organizational goals.
 
 * 📫 How to reach me: <a href="mailto:saswatseth.work@gmail.com">[saswatseth.work@gmail.com](mailto:saswatseth.work@gmail.com)</a>
 
