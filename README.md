@@ -18,7 +18,7 @@
 
 * 📄 You can view my resume: [Resume](https://drive.google.com/file/d/1nO18u_I4j8ilJt_1CzRqzv9yjj5A2zXi/view).
 
-* 💼 Explore my projects & experiences: <a href="https://saswatseth.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
+* 💼 Explore my projects & experiences: <a href="https://saswatseth.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberoctane29&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="Cyberoctane29" />
