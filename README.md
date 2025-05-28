@@ -14,7 +14,7 @@
 
 * 🤝 **Collaborative & Strategic Thinker:** Skilled in presentation, leadership, stakeholder communication, project management, and business acumen, ensuring data solutions drive strategic impact.
 
-* 📫 How to reach me: <a href="mailto:saswatseth.work@gmail.com">[saswatseth.work@gmail.com](mailto:saswatseth.work@gmail.com)</a>
+* 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=saswatseth.work@gmail.com">saswatseth.work@gmail.com</a>
 
 * 📄 Explore my projects & experiences: <a href="https://saswatseth.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
