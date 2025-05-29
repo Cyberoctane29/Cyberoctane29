@@ -23,6 +23,9 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberoctane29&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="Cyberoctane29" />
 </p>
+
+[![Saswat's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cyberoctane29&theme=dark)
+
 <p>
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyberoctane29&theme=github_dark" alt="Cyberoctane29's Profile Details" style="max-width: 100%;">
 </p>
