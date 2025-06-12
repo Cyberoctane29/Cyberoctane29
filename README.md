@@ -6,7 +6,7 @@
 
 * 🌱 **Data Analytics & Machine Learning Enthusiast:** Passionate about transforming data into actionable insights, developing end-to-end analytics and predictive model pipelines, and delivering impactful solutions.
 
-* 💾 **SQL, Python & Data Visualization:** Skilled in data querying, cleaning, analysis, and visualization using SQL (MySQL), Python (pandas, NumPy, scikit-learn, XGBoost,Matplotlib and more), and Tableau.
+* 💾 **SQL, Python & Data Visualization:** Skilled in data querying, cleaning, analysis, and visualization using SQL (MySQL), Python (pandas, NumPy, scikit-learn, XGBoost,Matplotlib, and more), and Tableau.
 
 * 📊 **Advanced Analytics, AI & ML Explorer:** Skilled in EDA, feature engineering, hypothesis testing, statistical modeling (probability, regression, classification, etc), machine learning (supervised, unsupervised, decision trees, random forests, XGBoost, clustering and more), and ethical data storytelling.
 
