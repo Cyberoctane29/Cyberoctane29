@@ -20,15 +20,15 @@
 
 * 💼 Explore my projects & experiences: <a href="https://saswatseth.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
-<p align="center">
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberoctane29&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="Cyberoctane29" />
 </p>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-kappa-beryl.vercel.app?user=Cyberoctane29&theme=dark&card_width=440" alt="GitHub Streak" /></a>
+<p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-kappa-beryl.vercel.app?user=Cyberoctane29&theme=dark&card_width=378" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
+<p>
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyberoctane29&theme=github_dark" alt="Cyberoctane29's Profile Details" style="max-width: 100%;">
 </p>
 
