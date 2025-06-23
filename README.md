@@ -24,6 +24,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberoctane29&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="Cyberoctane29" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats-kappa-beryl.vercel.app?user=Cyberoctane29&theme=dark&card_width=378)](https://git.io/streak-stats)
+
 <p>
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyberoctane29&theme=github_dark" alt="Cyberoctane29's Profile Details" style="max-width: 100%;">
 </p>
