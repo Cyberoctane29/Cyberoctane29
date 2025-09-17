@@ -1,5 +1,3 @@
-<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/3f466aa2-e73f-4156-a844-a471dc5cdd97" />
-
 <h1 align="center">Hi, I'm Saswat!</h1>
 
 <p align="left"> 
