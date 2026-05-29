@@ -18,12 +18,12 @@ Pursuing IIT Madras Diploma in Data Science | AI/ML Training Contributor (Freela
 
 * **Collaborative & Strategic Thinker:** Skilled in stakeholder communication, technical documentation, project presentation, leadership, problem-solving, and translating analytical findings into business impact.
 
-* 📫 How to reach me: saswatseth.work@gmail.com
-
 * 📄 You can view my resume: <a href="https://drive.google.com/file/d/1nO18u_I4j8ilJt_1CzRqzv9yjj5A2zXi/view" target="_blank" rel="noopener noreferrer">Resume</a>
 
 * 💼 Explore my projects & experiences: <a href="https://saswatseth.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
+* 📫 How to reach me: saswatseth.work@gmail.com
+  
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberoctane29&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="Cyberoctane29" />
 </p>
