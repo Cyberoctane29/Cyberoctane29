@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Saswat!</h1>
 
-IIT Madras Diploma in Data Science | AI/ML Training Contributor (Freelancer) at Alignerr | Former Database & SQL Intern at Central University of Odisha | Computer Science (AI & ML) Graduate
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=cyberoctane29&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoctane29" />
 </p>
+
+IIT Madras Diploma in Data Science | AI/ML Training Contributor (Freelancer) at Alignerr | Former Database & SQL Intern at Central University of Odisha | Computer Science (AI & ML) Graduate
 
 * **Data Analytics & AI/ML Practitioner:** Passionate about transforming data into actionable insights through analytics, machine learning, business intelligence, and AI evaluation. Experienced in developing end-to-end analytical solutions and delivering data-driven recommendations.
 
