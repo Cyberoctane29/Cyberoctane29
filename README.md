@@ -1,14 +1,16 @@
 <h1 align="center">Hi, I'm Saswat!</h1>
 
+IIT Madras Diploma in Data Science | AI/ML Training Contributor (Freelancer) at Alignerr | Former Database & SQL Intern at Central University of Odisha | Computer Science (AI & ML) Graduate
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=cyberoctane29&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoctane29" />
 </p>
 
 * **Data Analytics & AI/ML Practitioner:** Passionate about transforming data into actionable insights through analytics, machine learning, business intelligence, and AI evaluation. Experienced in developing end-to-end analytical solutions and delivering data-driven recommendations.
 
-* **SQL, Python & Data Visualization:** Skilled in data querying, cleaning, analysis, visualization, and dashboard development using SQL (MySQL), Python (Pandas, NumPy, Scikit-learn, Matplotlib, XGBoost, and more), Power BI, Tableau, and Excel.
+* **SQL, Python & Data Visualization:** Skilled in data querying, cleaning, analysis, visualization, and dashboard development using SQL (MySQL), Python (Pandas, NumPy, Scikit-learn, Matplotlib, and XGBoost), Power BI, Tableau, and Excel.
 
-* **Machine Learning & Statistical Analysis:** Experienced in exploratory data analysis (EDA), feature engineering, hypothesis testing, statistical modeling, predictive analytics, classification, clustering, model evaluation, and data storytelling across real-world analytics projects.
+* **Machine Learning & Statistical Analysis:** Hands-on experience in exploratory data analysis (EDA), feature engineering, hypothesis testing, statistical modeling, predictive analytics, classification, clustering, model evaluation, and data storytelling across real-world analytics projects.
 
 * **AI Evaluation & LLM Benchmarking:** Currently contributing as an AI/ML Training Contributor (Freelancer) at Alignerr, working on LLM evaluation, benchmark curation, quality assurance, data validation, adversarial testing, and human-in-the-loop AI assessment workflows.
 
