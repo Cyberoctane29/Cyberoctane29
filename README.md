@@ -23,10 +23,6 @@ Pursuing IIT Madras Diploma in Data Science | AI/ML Training Contributor (Freela
 * 💼 Explore my projects & experiences: <a href="https://saswatseth.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 * 📫 How to reach me: saswatseth.work@gmail.com
-  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberoctane29&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="Cyberoctane29" />
-</p>
 
 <p>
   <img src="https://github-readme-streak-stats-kappa-beryl.vercel.app?user=Cyberoctane29&theme=dark&card_width=378" alt="GitHub Streak" />
