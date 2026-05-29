@@ -33,8 +33,5 @@ Pursuing IIT Madras Diploma in Data Science | AI/ML Training Contributor (Freela
 </p>
 
 <p>
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyberoctane29&theme=github_dark" alt="Cyberoctane29's Profile Details" style="max-width: 100%;">
+  <img src="https://github-profile-summary-cards-one-nu.vercel.app/api/cards/profile-details?username=Cyberoctane29&theme=github_dark" alt="Cyberoctane29's Profile Details" style="max-width: 100%;">
 </p>
-
-
-
