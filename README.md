@@ -29,9 +29,9 @@ Pursuing IIT Madras Diploma in Data Science | AI/ML Training Contributor (Freela
 </p>
 
 <p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-kappa-beryl.vercel.app?user=Cyberoctane29&theme=dark&card_width=378" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats-kappa-beryl.vercel.app?user=Cyberoctane29&theme=dark&card_width=378" alt="GitHub Streak" />
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards-one-nu.vercel.app/api/cards/profile-details?username=Cyberoctane29&theme=github_dark" alt="Cyberoctane29's Profile Details" style="max-width: 100%;">
+  <img src="https://github-profile-summary-cards-one-nu.vercel.app/api/cards/profile-details?username=Cyberoctane29&theme=github_dark" alt="Cyberoctane29's Profile Details" />
 </p>
