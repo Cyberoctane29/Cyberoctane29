@@ -24,5 +24,6 @@ Pursuing IIT Madras Diploma in Data Science | AI/ML Training Contributor (Freela
 
 * 📫 How to reach me: saswatseth.work@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cyberoctane29&theme=dark&card_width=563&currStreakLabel=619DD4&stroke=7288A274&ring=619DD4&fire=619DD4&background=030314)](https://git.io/streak-stats)     <img src="assets/Component.png" alt="Project Core Technologies" width="130">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cyberoctane29&theme=dark&card_width=700&currStreakLabel=619DD4&stroke=7288A274&ring=619DD4&fire=619DD4&background=030314)](https://git.io/streak-stats)     
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyberoctane29&theme=holi)
