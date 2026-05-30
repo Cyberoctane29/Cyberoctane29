@@ -25,9 +25,5 @@ Pursuing IIT Madras Diploma in Data Science | AI/ML Training Contributor (Freela
 * 📫 How to reach me: saswatseth.work@gmail.com
 
 <p>
-  <img src="https://github-readme-streak-stats-kappa-beryl.vercel.app?user=Cyberoctane29&theme=dark&card_width=378" alt="GitHub Streak" />
-</p>
-
-<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyberoctane29&theme=github_dark" alt="Cyberoctane29's Profile Details" style="max-width: 100%;">
 </p>
