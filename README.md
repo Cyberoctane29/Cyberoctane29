@@ -6,15 +6,13 @@
 
 Pursuing IIT Madras Diploma in Data Science | AI/ML Training Contributor (Freelancer) at Alignerr | Former Database & SQL Intern at Central University of Odisha | Computer Science (AI & ML) Graduate
 
-* **Data Analytics & AI/ML Practitioner:** Passionate about transforming data into actionable insights through analytics, machine learning, business intelligence, and AI evaluation. Experienced in developing end-to-end analytical solutions and delivering data-driven recommendations.
-
-* **SQL, Python & Data Visualization:** Skilled in data querying, cleaning, analysis, visualization, and dashboard development using SQL (MySQL), Python (Pandas, NumPy, Scikit-learn, Matplotlib, and XGBoost), Power BI, Tableau, and Excel.
+* **Data Analytics, SQL, Python & Data Visualization:** Skilled in data querying, cleaning, analysis, visualization, and dashboard development using SQL (MySQL), Python (Pandas, NumPy, Scikit-learn, Matplotlib, and XGBoost), Power BI, Tableau, and Excel.
 
 * **Machine Learning & Statistical Analysis:** Hands-on experience in exploratory data analysis (EDA), feature engineering, hypothesis testing, statistical modeling, predictive analytics, classification, clustering, model evaluation, and data storytelling across real-world analytics projects.
 
 * **AI Evaluation & LLM Benchmarking:** Currently contributing as an AI/ML Training Contributor (Freelancer) at Alignerr, working on LLM evaluation, benchmark curation, quality assurance, data validation, adversarial testing, and human-in-the-loop AI assessment workflows.
 
-* **Business-Focused Data Practitioner:** Proficient in Excel, Power BI, Tableau, BigQuery, and modern AI tools, leveraging data-driven methodologies to optimize business processes, support decision-making, and generate actionable insights.
+* **Business Analytics & Decision Support:** Experienced in developing end-to-end analytical solutions, leveraging Excel, Power BI, Tableau, BigQuery, and modern AI tools to optimize business processes, support decision-making, and deliver actionable insights.
 
 * **Collaborative & Strategic Thinker:** Skilled in stakeholder communication, technical documentation, project presentation, leadership, problem-solving, and translating analytical findings into business impact.
 
